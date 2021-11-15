@@ -2,7 +2,6 @@
 <h3> 👨: &nbsp;About me</h3>
 
 - 🎓 &nbsp; Studying systems analysis and development at <a href="https://www.usjt.br">São Judas Tadeu University</a>.
-- 💼 &nbsp; I am currently working as a flutter developer at <a href="https://cddit.com.br">CDDIT</a>
 - 🌱 &nbsp; Learning more about **Flutter**.
 
 <h3> :rocket: &nbsp;My Skills </h3>
