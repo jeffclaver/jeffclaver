@@ -40,4 +40,4 @@
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-Jefferson&nbsp;Claver-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jefferson-claver-110729168/)](https://www.linkedin.com/in/jefferson-claver-110729168/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:claverjeff19@gmail.com)](mailto:claverjeff19@gmail.com)
-[![whatsApp](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https:http://api.whatsapp.com/send?phone="+5511957737753")](http://api.whatsapp.com/send?phone="+5511957737753")
+[![whatsApp](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https:http://api.whatsapp.com/send?phone="+5511957737753")](http://api.whatsapp.com/send?phone="+5511957737753") 
