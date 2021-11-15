@@ -1,6 +1,4 @@
 
-![](https://komarev.com/ghpvc/?username=jeffclaver&color=006bed)
-
 <h3> 👨: &nbsp;About me</h3>
 
 - 🎓 &nbsp; Studying systems analysis and development at <a href="https://www.usjt.br">São Judas Tadeu University</a>.
