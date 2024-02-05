@@ -1,8 +1,8 @@
 
 <h3> 👨: &nbsp;About me</h3>
 
-- 🎓 &nbsp; Studying systems analysis and development at <a href="https://www.usjt.br">São Judas Tadeu University</a>.
-- 🌱 &nbsp; Learning more about **Flutter**.
+- 🎓 &nbsp; graduate in systems analysis and development at <a href="https://www.usjt.br">São Judas Tadeu University</a>.
+- 🌱 &nbsp; Learning more about **Mobile and Backend**.
 
 <h3> :rocket: &nbsp;My Skills </h3>
 
